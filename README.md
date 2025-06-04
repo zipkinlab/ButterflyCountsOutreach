@@ -5,9 +5,9 @@ Counting butterflies is an important aspect of insect conservation programs that
 
 The activity can be completed in 3-5 minutes and can be run with 2-4 people. Having less than 2 people at the table would be too chaotic and having more than 4 people would not be more helpful. 
 
-In this repository, there is all the material to replicate the outreach activity. Below I briefly describe the subdirectories of this repository. 
+*In this repository, there is all the material to replicate the outreach activity. Below I briefly describe the subdirectories of this repository.*
 
-scripts/ in this subdirectory, there is a script named modelOutreachButterflCounts.R that can be run from source if the user has the proper permissions to read in a google sheet to their R console. 
+[scripts to run abundance estimate](/scripts) in this subdirectory, there is a script named modelOutreachButterflCounts.R that can be run from source if the user has the proper permissions to read in a google sheet to their R console. 
 
 documents/ in this subdirectory, there are associated documents that are useful for preparing for the outreach event. The directory includes:
 	-ButterfliesCountPoster.pdf; which is a printable poster to have on the table
