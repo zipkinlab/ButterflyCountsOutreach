@@ -34,6 +34,6 @@ ggplot() +
   theme_classic() +
   theme(text = element_text(size=rel(5)))
 
-ggsave(filename = "modelOutputFigure/MorePreciseEstiamte.png",
-       width = 5, height = 3, dpi = 444)
+#ggsave(filename = "modelOutputFigure/MorePreciseEstimate.png",
+#       width = 5, height = 3, dpi = 444)
         
