@@ -1,7 +1,7 @@
 # Butterflies Count!
 
 ## A Zipkin Lab Girls Math and Science Day "Science Fair Table Demonstration" Activity
-Counting butterflies is an important aspect of insect conservation programs that is often performed by volunteer scientists from the public. In this interactive outreach activity, students will search for and count butterflies placed around the room after a brief demonstration on how scientists use butterfly counts to study butterfly populations and inform conservation. At our table, students will learn about statistical uncertainty and how increasing sample size leads to more precise estimates of butterflies. Students that participate will be able to choose a small insect sticker to take home. 
+Counting butterflies is an important aspect of insect conservation programs that is often performed by volunteer scientists from the public. In this interactive outreach activity, students will search for and count butterflies (3D butterfly stickers) placed around the room after a brief demonstration on how scientists use butterfly counts to study butterfly populations and inform conservation. At our table, students will learn about statistical uncertainty and how increasing sample size leads to more precise estimates of butterflies. Students that participate will be able to choose a small insect sticker to take home. 
 
 The activity can be completed in 3-5 minutes and can be run with 2-4 people. Having less than 2 people at the table would be too chaotic and having more than 4 people would not be more helpful. 
 
