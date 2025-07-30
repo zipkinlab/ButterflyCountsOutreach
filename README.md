@@ -9,8 +9,8 @@ The activity can be completed in 3-5 minutes and can be run with 2-4 people. Hav
 
 [scripts](/scripts): in this subdirectory, there is a script named modelOutreachButterflCounts.R that can be run from source if the user has the proper permissions to read in a google sheet to their R console. 
 
-[documents](/documents): in this subdirectory, there are associated documents that are useful for preparing for the outreach event. The directory includes:
-	1)ButterfliesCountPoster.pdf; which is a printable poster to have on the table [(Link to poster on Canva)](https://www.canva.com/design/DAGffPwHTMo/dymX0G_X5p_QO9WgvPv2tQ/edit) <br/>
+[documents](/documents): in this subdirectory, there are associated documents that are useful for preparing for the outreach event. The directory includes:<br/>
+	- ButterfliesCountPoster.pdf; which is a printable poster to have on the table [(Link to poster on Canva)](https://www.canva.com/design/DAGffPwHTMo/dymX0G_X5p_QO9WgvPv2tQ/edit) <br/>
 	- ButterfliesCountPoster.png; same poster but saved as a png <br/>
 	-GMSD_ButterfliesCount_LessonPlan.docx; lesson plan with overall learning objectives, lesson plan, and set-up instructions <br/> 
 	-GMSD_dataSheet.docx; sheet to print with multiple copies for students to sign-in and document how long they spend searching for butterflies <br/>
